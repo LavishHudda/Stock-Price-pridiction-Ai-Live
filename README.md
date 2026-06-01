@@ -1,6 +1,7 @@
 # Indian Stock Market Prediction Platform (ANTIGRAVITY.AI)
 
 A production-ready, feature-rich web application built with Python Flask and Machine Learning libraries to analyze and predict trends in the Indian Stock Market (NSE/BSE).
+please show on link [http://127.0.0.1:5000/](url)
 
 ---
 
