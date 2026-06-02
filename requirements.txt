@@ -1,6 +1,7 @@
-flask
-gunicorn
+Flask
+Flask-Login
 pandas
-numpy
 scikit-learn
 yfinance
+numpy
+gunicorn
